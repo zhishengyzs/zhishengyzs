@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zhisheng Yang
+## Zhisheng Yang
 
 <!--
 **zhishengyzs/zhishengyzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Statistics @ Columbia University | Econ & Math @ Boston University
+M.S. Statistics, Columbia University | B.A. Economics & Mathematics, Boston University   
 
-🧐 Data Science & Analytics | Statistical Modeling | Quantitative Finance | Machine Learning Applications
+Data Science & Analytics | Statistical Modeling | Quantitative Finance | Machine Learning Applications
 
-📫 Email: zy2675@columbia.edu | LinkedIn: [https://www.linkedin.com/in/zhishengyang/](https://www.linkedin.com/in/zhishengyang/)
+Email: zy2675@columbia.edu | LinkedIn: [https://www.linkedin.com/in/zhishengyang/](https://www.linkedin.com/in/zhishengyang/)
